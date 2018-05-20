@@ -1,0 +1,34 @@
+Microsoft Windows [Version 10.0.16299.431]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>c:\Tools\gradle-4.4.1\bin\gradle build
+
+BUILD SUCCESSFUL in 16s
+2 actionable tasks: 2 executed
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>c:\Tools\gradle-4.4.1\bin\gradle run
+
+> Task :run
+Hello, world!
+
+
+BUILD SUCCESSFUL in 5s
+2 actionable tasks: 1 executed, 1 up-to-date
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>c:\Tools\gradle-4.4.1\bin\gradle wrapper
+
+BUILD SUCCESSFUL in 7s
+1 actionable task: 1 executed
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>gradlew build
+
+BUILD SUCCESSFUL in 7s
+5 actionable tasks: 3 executed, 2 up-to-date
+
+
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>gradlew run
+
+> Task :run
+Hello, world!
+
+
+BUILD SUCCESSFUL in 4s
+2 actionable tasks: 1 executed, 1 up-to-date
+c:\Users\Vital\Documents\GitHub\java_pft\sandbox>
